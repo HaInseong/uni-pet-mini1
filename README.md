@@ -64,13 +64,13 @@
 https://github.com/uni-devTeam/uni-pet/assets/115906460/c8b59b90-89d2-42b0-9ced-d736623e93cf
 
 
-#### 공지게시판 - 관리자 기능
+#### 게시판 - 관리자 기능
 https://github.com/uni-devTeam/uni-pet-mini1/assets/143240246/6848733c-02be-4bfa-a3f9-56b5377f88a3
 
-#### 나눔게시판 - CRUD, 댓글, 조회수, 사진업로드, 에디터
+#### 게시판 - CRUD, 댓글, 조회수, 사진업로드, 에디터
 https://github.com/uni-devTeam/uni-pet-mini1/assets/143240246/d30514eb-756e-4ac6-bf5b-27d394eb85da
 
-#### 자유게시판 - 검색
+#### 게시판 - 검색 기능
 https://github.com/uni-devTeam/uni-pet-mini1/assets/143240246/31b00667-c301-4d7f-9f37-dfff1dfdc419
 
 
