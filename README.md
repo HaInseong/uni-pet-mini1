@@ -77,13 +77,13 @@ https://github.com/uni-devTeam/uni-pet/assets/115906460/c8b59b90-89d2-42b0-9ced-
 #### 로그인 / 회원가입
 https://github.com/uni-devTeam/uni-pet/assets/115906460/b4d13526-ddb0-4390-ad26-f2d5866d8821
 
-#### 게시판 - 관리자 접근, 기본 CRUD
+#### 게시판1 - 관리자 접근, 기본 CRUD
 https://github.com/uni-devTeam/uni-pet-mini1/assets/143240246/6848733c-02be-4bfa-a3f9-56b5377f88a3
 
-#### 게시판 - 프로필 연동, 댓글, 조회수, 사진 업로드, 에디터 기능
+#### 게시판2 - 프로필 연동, 댓글, 조회수, 사진 업로드, 에디터 기능
 https://github.com/uni-devTeam/uni-pet-mini1/assets/143240246/d30514eb-756e-4ac6-bf5b-27d394eb85da
 
-#### 게시판 - 검색 기능
+#### 게시판3 - 검색 기능
 https://github.com/uni-devTeam/uni-pet-mini1/assets/143240246/31b00667-c301-4d7f-9f37-dfff1dfdc419
 
 #### 동물병원 / 산책로 페이지
