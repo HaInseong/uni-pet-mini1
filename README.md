@@ -65,10 +65,13 @@ https://github.com/uni-devTeam/uni-pet/assets/115906460/c8b59b90-89d2-42b0-9ced-
 
 
 #### 게시판 1
-[Board_1.webm](https://github.com/uni-devTeam/uni-pet/assets/115906460/1c88639f-1626-485b-a767-a8457abecdce)
+https://github.com/uni-devTeam/uni-pet-mini1/assets/143240246/6848733c-02be-4bfa-a3f9-56b5377f88a3
 
 #### 게시판 2
-[Board_2.webm](https://github.com/uni-devTeam/uni-pet/assets/115906460/a6bea80e-231e-4082-9809-cbb09af50f5f)
+https://github.com/uni-devTeam/uni-pet-mini1/assets/143240246/d30514eb-756e-4ac6-bf5b-27d394eb85da
+
+#### 게시판 3
+
 
 #### 유기동물 페이지
 [list_page.webm](https://github.com/uni-devTeam/uni-pet/assets/115906460/2e413d99-cc3b-4290-b898-cba9139652b6)
